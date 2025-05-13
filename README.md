@@ -16,4 +16,4 @@ Impedance-controlled layout of CPU (0.65mm pitch BGA), DDR3 x 2, DC & PMU, HDMI,
 ## Analog IC Design
 
 ### Demo4_DAC_Full_Custom_IC_Design
-Digital to Analogue Converter (DAC) in 0.18um CMOS
+Integrated Circuit Design of Digital to Analogue Converter (DAC) in 0.18um CMOS
